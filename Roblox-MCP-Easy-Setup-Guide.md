@@ -17,7 +17,7 @@ Simple guide to connect a **mobile Roblox executor** (Delta, etc.) to **Grok** (
 ## Quick Setup
 
 ### 1. Download the original MCP
-
+https://gitlab.com/upio/roblox-executor-mcp
 Download and extract it (example: `C:\roblox-executor-mcp`)
 
 ### 2. Build it
